@@ -7,4 +7,5 @@ let params = {
     containerid,
     since_id
 }
+console.log(sina);
 sina.getSuperList(params)
